@@ -1,4 +1,3 @@
-```markdown
 # Learning Go (Golang): A Beginner's Guide
 
 Go, commonly known as Golang, is a programming language developed by Google. It's known for its simplicity, efficiency, and strong support for concurrent programming, making it a popular choice for building scalable and high-performance applications.
